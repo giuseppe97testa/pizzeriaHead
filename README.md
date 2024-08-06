@@ -8,3 +8,19 @@ Ho utilizzato intellij come IDE.
 
 Note di avvio: 
 Per avviarlo basta fare "docker-compose up -d". All'interno del docker compose sono presenti sia il microservizio dell'applicazione e sia il microservizio di sql. 
+
+Post Request Pizza
+{
+"nome": "Margherita",
+"aggiunta":"Prosciutto, Melanzane",
+"rimozione" :"no",
+"prezzo":6.5,
+"pizzaiolo": {"id": 1}
+}
+
+Post Request Pizzaiolo 
+{
+"nome":"Giuseppe",
+"cognome":"Testa",
+"eta":26
+}
