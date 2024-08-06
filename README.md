@@ -27,4 +27,4 @@ Post Request Pizzaiolo
 
 http://localhost:8080/pizzeriahead/pizza
 http://localhost:8080/pizzeriahead/pizzaioli
-http://localhost:8080/pizzeriahead/pizzaioli/
+Per la funzione conta pizze per pizzaiolo: http://localhost:8080/pizzeriahead/pizzaioli/numeropizze/{id}
