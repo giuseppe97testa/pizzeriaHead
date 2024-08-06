@@ -1,0 +1,9 @@
+com\example\pizzeriahead\PizzeriaHeadApplication.class
+com\example\pizzeriahead\model\Pizza.class
+com\example\pizzeriahead\controller\PizzaController.class
+com\example\pizzeriahead\controller\PizzaioloController.class
+com\example\pizzeriahead\service\PizzaioloService.class
+com\example\pizzeriahead\service\PizzaService.class
+com\example\pizzeriahead\repository\PizzaioloRepository.class
+com\example\pizzeriahead\repository\PizzaRepository.class
+com\example\pizzeriahead\model\Pizzaiolo.class
