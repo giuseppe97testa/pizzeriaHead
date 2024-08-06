@@ -24,3 +24,7 @@ Post Request Pizzaiolo
 "cognome":"Testa",
 "eta":26
 }
+
+http://localhost:8080/pizzeriahead/pizza
+http://localhost:8080/pizzeriahead/pizzaioli
+http://localhost:8080/pizzeriahead/pizzaioli/
